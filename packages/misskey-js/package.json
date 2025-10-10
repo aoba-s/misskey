@@ -35,7 +35,7 @@
 		"directory": "packages/misskey-js"
 	},
 	"devDependencies": {
-		"@microsoft/api-extractor": "7.52.15",
+		"@microsoft/api-extractor": "7.53.0",
 		"@types/node": "22.18.8",
 		"@typescript-eslint/eslint-plugin": "8.45.0",
 		"@typescript-eslint/parser": "8.45.0",
